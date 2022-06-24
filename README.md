@@ -12,6 +12,6 @@ cd("/Users/bobby/OneDrive - University College London/projects/example")
 editing packages should be done using the Julia package Revise
 
 first you dev the package
-```julia
-dev
+```julia-repl
+pkg> dev ExamplePkg
 ```
