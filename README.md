@@ -4,6 +4,14 @@ Julia package makes this really easy
 https://invenia.github.io/PkgTemplates.jl/dev/user/
 
 navigate to directory
-#+BEGIN_SRC julia
+
+'''julia
 cd("/Users/bobby/OneDrive - University College London/projects/example")
-#+END_SRC
+'''
+
+editing packages should be done using the Julia package Revise
+
+first you dev the package
+'''julia
+dev
+'''
